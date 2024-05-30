@@ -41,3 +41,7 @@ I changed the explanation from `Tanh` to `relu` since I was using `relu` in the 
 # Feedback
 
 I am seeking feedback on the technical details included in the article. My main goal was to ensure that the amount of information provided on convolution and CNN architecture is sufficient. Additionally, I would like your opinion on the code section. Due to the word limit, I couldn't explain the code in much detail. In the assessment, what quantity and complexity level of questions do you anticipate? The questions I've included necessitate some brainstorming, as the answers are not explicitly stated in the article.
+
+# What would I have done differently if I had more time?
+
+Considering I have to fit everything in the given word limit, I would have properly commented each line of the code and would have added some plot images of the dataset (EDA) as well as of the outputs to showcase model's abilities.
